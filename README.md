@@ -10,3 +10,4 @@ Mitchss-MacBook-Air:capstone mitchellcarmen$ git push -u origin master
 Mitchss-MacBook-Air:capstone mitchellcarmen$ git add .
 Mitchss-MacBook-Air:capstone mitchellcarmen$ git commit -m "plotting the reconstruction errors"
 Mitchss-MacBook-Air:capstone mitchellcarmen$ git push -u origin master
+
